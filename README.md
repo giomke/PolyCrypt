@@ -16,4 +16,7 @@ PolyCrypt is a versatile tool for Antivirus Evasion, featuring Packer, Obfuscati
 in order to use PolyCrypt, head over to the tool website here: https://polycrypt.m0hx.pw/
 
 ## Disclaimer
-Please note that this software is provided "as is" and without warranty of any kind, express or implied. In no event shall the authors or contributors be liable for any claim, damages, or other liability arising from the use of this software.
+I, the creator, am not responsible for any actions and/or damages caused by this software.
+You bear the full responsibility for your actions and acknowledge that this software was created for educational purposes only.
+This software's main purpose is NOT to be used maliciously or on any system that you do not own or have the right to use.
+By using this software, you automatically agree to the above.
